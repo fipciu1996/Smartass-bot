@@ -1,0 +1,14 @@
+.git
+.gitignore
+.env
+.env.*
+.venv
+.idea
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+day1.ipynb
+test_integration.py
+AGENTS.md
+README.md
